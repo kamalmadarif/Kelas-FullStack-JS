@@ -1,0 +1,14 @@
+    Fullstack JS : https://github.com/vanbumi/kelas-fullstack-mc
+
+
+Remond's App
+source & materi dari project remonds app:
+
+    Remonds Web App Source : https://github.com/vanbumi/remonds-app
+    Untuk kelas REMONDS perhatikan setiap bab dipisahkan berdasarkan git branch masing-masing. 
+    Silahkan cek menu dropdown pada kolom branch nya.
+
+
+Note: Github.com adalah tempat menyimpan file (source code & text) atau disebut REPOSITORY. Pedoman belajar anda adalah Video & PDF di web ini (Bukan di Repository)
+
+
